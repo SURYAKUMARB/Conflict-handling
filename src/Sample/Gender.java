@@ -9,6 +9,7 @@ public class Gender {
 	{
 	
 System.out.println("Yes i am male");
+System.out.println("Conflict");
 	}	
 	
 }
